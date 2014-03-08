@@ -1,3 +1,4 @@
+git pull 
 git clone https://zzxia@bitbucket.org/zzxia/hello-world.git
 git add README.text //git rm README.text
 git commit -m "first commit"
