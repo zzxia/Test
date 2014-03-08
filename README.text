@@ -1,0 +1,9 @@
+git clone https://zzxia@bitbucket.org/zzxia/hello-world.git
+git add README.text //git rm README.text
+git commit -m "first commit"
+git push origin master
+
+
+git config --global user.name zzxia
+git config --global user.email malashang@gmail.com
+hello world
